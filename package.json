@@ -73,8 +73,8 @@
     "semver": "^7.6.3",
     "sequelize": "^5.16.0",
     "web-vitals": "^1.0.1",
-    "web3": "^1.6.0",
-    "webpack": "^4.44.0"
+    "web3": "^4.0.1",
+    "webpack": "^5.0.0"
   },
   "scripts": {
     "start": "npm run check-env && npm run app:pre | react-scripts --openssl-legacy-provider start --kill-others --kill-others-on-fail",
